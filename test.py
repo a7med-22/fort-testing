@@ -7,5 +7,6 @@ print ("instruction from local ");
 print( "hello another commit");
 print ("hello another commit 2 ");
 print ("hello everyone ");
-print ("testing conflict");print ("testing conflict form local");
+print ("testing conflict");
+print ("testing conflict form local");
 print ("hello ");
