@@ -1,8 +1,9 @@
 {
-    "workbench.colorCustomizations": {
-        "terminal.background": "#00000000",
-        "activityBar.background": "#2C300A",
-        "titleBar.activeBackground": "#3D430E",
-        "titleBar.activeForeground": "#FAFBED"
-    }
+  "workbench.colorCustomizations": {
+    "terminal.background": "#00000000",
+    "activityBar.background": "#2C300A",
+    "titleBar.activeBackground": "#3D430E",
+    "titleBar.activeForeground": "#FAFBED"
+  },
+  "C_Cpp_Runner.msvcBatchPath": ""
 }
