@@ -6,3 +6,4 @@ adding text from local
 adding another from local 
 adding another2 from local 
 adding another3 from local 
+added by the others  to github 
